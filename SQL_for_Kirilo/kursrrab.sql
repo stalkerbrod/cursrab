@@ -156,91 +156,256 @@ INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('3222486200:01:001:0001', 1, 1, 120.50, 80.00, 1, 1, 1, 1, '15');
+VALUES (
+	'3222486200:01:001:0001',
+	1,
+	1,
+	120.50,
+	80.00,
+	1,
+	1,
+	1,
+	1,
+	'15'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('4623682200:04:002:0105', 2, 2, 95.00, 60.00, 2, 2, 2, 2, '7');
+VALUES (
+	'4623682200:04:002:0105',
+	2,
+	2,
+	95.00,
+	60.00,
+	2,
+	2,
+	2,
+	2,
+	'7'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('6325184500:07:003:0201', 3, 3, 150.00, 100.00, 3, 3, 3, 3, '21');
+VALUES (
+	'6325184500:07:003:0201',
+	3,
+	3,
+	150.00,
+	100.00,
+	3,
+	3,
+	3,
+	3,
+	'21'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('7110136600:02:004:0333', 4, 1, 75.25, 50.00, 1, 1, 4, 4, '9');
+VALUES (
+	'7110136600:02:004:0333',
+	4,
+	1,
+	75.25,
+	50.00,
+	1,
+	1,
+	4,
+	4,
+	'9'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('8000000000:05:005:0444', 5, 2, 200.00, 110.00, 2, 2, 2, 5, '33');
+VALUES (
+	'8000000000:05:005:0444',
+	5,
+	2,
+	200.00,
+	110.00,
+	2,
+	2,
+	2,
+	5,
+	'33'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('5100136600:06:006:0501', 6, 4, 130.00, 70.00, 6, 6, 6, 6, '12');
+VALUES (
+	'5100136600:06:006:0501',
+	6,
+	4,
+	130.00,
+	70.00,
+	6,
+	6,
+	6,
+	6,
+	'12'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('1200136600:07:007:0502', 7, 5, 145.00, 85.00, 7, 7, 7, 7, '18');
+VALUES (
+	'1200136600:07:007:0502',
+	7,
+	5,
+	145.00,
+	85.00,
+	7,
+	7,
+	7,
+	7,
+	'18'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('2100136600:08:008:0503', 8, 6, 98.00, 64.00, 8, 8, 8, 8, '5');
+VALUES (
+	'2100136600:08:008:0503',
+	8,
+	6,
+	98.00,
+	64.00,
+	8,
+	8,
+	8,
+	8,
+	'5'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('3100136600:09:009:0504', 9, 7, 175.00, 95.00, 9, 9, 9, 9, '27');
+VALUES (
+	'3100136600:09:009:0504',
+	9,
+	7,
+	175.00,
+	95.00,
+	9,
+	9,
+	9,
+	9,
+	'27'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('4100136600:10:010:0505', 10, 8, 88.00, 54.00, 10, 10, 10, 10, '3');
+VALUES (
+	'4100136600:10:010:0505',
+	10,
+	8,
+	88.00,
+	54.00,
+	10,
+	10,
+	10,
+	10,
+	'3'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('6100136600:11:011:0506', 11, 9, 220.00, 120.00, 11, 11, 11, 11, '40');
+VALUES (
+	'6100136600:11:011:0506',
+	11,
+	9,
+	220.00,
+	120.00,
+	11,
+	11,
+	11,
+	11,
+	'40'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('7100136600:12:012:0507', 12, 10, 160.00, 92.00, 12, 12, 12, 12, '24');
+VALUES (
+	'7100136600:12:012:0507',
+	12,
+	10,
+	160.00,
+	92.00,
+	12,
+	12,
+	12,
+	12,
+	'24'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('8100136600:13:013:0508', 13, 11, 112.00, 68.00, 13, 13, 13, 13, '11');
+VALUES (
+	'8100136600:13:013:0508',
+	13,
+	11,
+	112.00,
+	68.00,
+	13,
+	13,
+	13,
+	13,
+	'11'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('9100136600:14:014:0509', 14, 12, 140.00, 80.00, 14, 14, 14, 14, '16');
+VALUES (
+	'9100136600:14:014:0509',
+	14,
+	12,
+	140.00,
+	80.00,
+	14,
+	14,
+	14,
+	14,
+	'16'
+);
 
 INSERT INTO land_plot (
 	plot_number, id_owner, id_type, length, width,
 	id_region, id_postal_code, id_settlement, id_street, street_plot_number
 )
-VALUES ('1100136600:15:015:0510', 15, 13, 190.00, 105.00, 15, 15, 15, 15, '29');
+VALUES (
+	'1100136600:15:015:0510',
+	15,
+	13,
+	190.00,
+	105.00,
+	15,
+	15,
+	15,
+	15,
+	'29'
+);
 
 -- Нарахування податків
 INSERT INTO tax_assessment (
